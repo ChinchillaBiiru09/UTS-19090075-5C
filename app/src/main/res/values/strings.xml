@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">EyeDropy</string>
+    <string name="deskripsi_gambar">description</string>
+    <string name="ket">Keterangan</string>
+    <string name="obat_mata">Obat Mata</string>
+    <string name="harga">Rp.5000</string>
+</resources>
